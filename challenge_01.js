@@ -10,3 +10,5 @@ Geben Sie die Summe der Zahlen in die Konsole aus:
 */
 
 number1 = 0;
+
+number2 = 2;
